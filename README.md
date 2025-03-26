@@ -1,4 +1,4 @@
-# IN1010 V23 - Obligatory Assignment 3
+# Abstract Data Structures
 
 ## Overview
 This repository contains the solution to the *Obligatory Assignment 3* for the course IN1010, as part of the *V23* semester. The assignment focuses on implementing various abstract data structures in Java, including linked lists, stacks, queues, indexed lists, and priority queues. The task is to create these data structures using object-oriented principles, without relying on external libraries such as Java’s built-in `ArrayList` or `LinkedList`. The structures will be used in future assignments, so the code should be clean, efficient, and reusable.
